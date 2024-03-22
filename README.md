@@ -2,9 +2,13 @@
 public disclosure:
 
 Affected application: MindManager23_setup.exe
+
 Platform: Windows
+
 Issue: Local Privilege Escalation via MSI installer Repair Mode (EXE hijacking race condition) 
+
 Discovered and reported by: Pawel Karwowski and Julian Horoszkiewicz (Eviden Red Team)
+
 
 Proposed mitigation:
 https://learn.microsoft.com/en-us/windows/win32/msi/disablemsi
