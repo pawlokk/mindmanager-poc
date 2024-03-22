@@ -1,5 +1,4 @@
 # mindmanager-poc
-public disclosure:
 
 Affected application: MindManager23_setup.exe
 
